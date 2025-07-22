@@ -1,2 +1,2 @@
-# ShongiShondhan
- An AI Powered Matrimonial  Platform
+# ShongiShondhan-CSE309-Project-
+An AI-Powered Matrimonial Platform
